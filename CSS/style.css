@@ -1,6 +1,6 @@
 
 body {
-    background-color: aquamarine;
+    background-color: burlywood;
 }
 
 h1 {
@@ -12,8 +12,8 @@ h1 {
     color: yellow;
 }
 
-a{
-    background-color: green;
+.myBtn{
+    background-color: cadetblue;
     color: white;
     font-size: 30px;
     padding: 20px;
